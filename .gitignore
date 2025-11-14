@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+logs/
+outputs/
+checkpoints/
+data/
+*.pt
+*.ckpt
+*.bin
+*.h5
